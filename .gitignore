@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+*.bak
+local.properties
+/bin
+/gen
+dependences/*/bin
+dependences/*/gen
+/proguard
+/.idea
+/.metadata
+/out
+Itutor-android.iml
+/obj
+.classpath
+.project
+.settings
